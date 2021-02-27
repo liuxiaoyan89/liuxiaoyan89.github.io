@@ -2,18 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuxiaoyan9689.github.io/</id>
     <title>LiuXiaoyan</title>
-    <updated>2019-08-18T01:55:51.872Z</updated>
+    <updated>2021-02-27T02:54:07.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liuxiaoyan9689.github.io/"/>
-    <link rel="self" href="https://liuxiaoyan9689.github.io//atom.xml"/>
+    <link rel="self" href="https://liuxiaoyan9689.github.io/atom.xml"/>
     <subtitle>谦虚，慎言，真诚待人，认真做事💗记录科研成长路上的点点滴滴💪</subtitle>
-    <logo>https://liuxiaoyan9689.github.io//images/avatar.png</logo>
-    <icon>https://liuxiaoyan9689.github.io//favicon.ico</icon>
-    <rights>All rights reserved 2019, LiuXiaoyan</rights>
+    <logo>https://liuxiaoyan9689.github.io/images/avatar.png</logo>
+    <icon>https://liuxiaoyan9689.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, LiuXiaoyan</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://liuxiaoyan9689.github.io//post/hello-gridea</id>
-        <link href="https://liuxiaoyan9689.github.io//post/hello-gridea">
+        <id>https://liuxiaoyan9689.github.io/post/hello-gridea/</id>
+        <link href="https://liuxiaoyan9689.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
