@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuxiaoyan89.github.io</id>
-    <title>LiuXiaoyan</title>
-    <updated>2021-02-27T11:59:42.908Z</updated>
+    <title>Xiaoyan Liu</title>
+    <updated>2021-02-27T12:07:13.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liuxiaoyan89.github.io"/>
     <link rel="self" href="https://liuxiaoyan89.github.io/atom.xml"/>
-    <subtitle>谦虚，慎言，真诚待人，认真做事💗记录科研成长路上的点点滴滴💪</subtitle>
+    <subtitle>安心，钻研，并入迷💗 记录科研路上的点点滴滴💪</subtitle>
     <logo>https://liuxiaoyan89.github.io/images/avatar.png</logo>
     <icon>https://liuxiaoyan89.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, LiuXiaoyan</rights>
+    <rights>All rights reserved 2021, Xiaoyan Liu</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://liuxiaoyan89.github.io/post/hello-gridea/</id>
