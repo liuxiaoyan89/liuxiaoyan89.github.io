@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuxiaoyan89.github.io</id>
     <title>Xiaoyan Liu</title>
-    <updated>2021-03-01T16:34:01.296Z</updated>
+    <updated>2021-03-01T16:36:04.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liuxiaoyan89.github.io"/>
     <link rel="self" href="https://liuxiaoyan89.github.io/atom.xml"/>
@@ -11,20 +11,21 @@
     <icon>https://liuxiaoyan89.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Xiaoyan Liu</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <title type="html"><![CDATA[Hello 你好！]]></title>
         <id>https://liuxiaoyan89.github.io/post/hello-gridea/</id>
         <link href="https://liuxiaoyan89.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+        <summary type="html"><![CDATA[<p>👏  这是Xiaoyan Liu 刘晓燕的个人主页，使用 <strong>Gridea</strong> ！<br>
 ✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+        <content type="html"><![CDATA[<p>👏  这是Xiaoyan Liu 刘晓燕的个人主页，使用 <strong>Gridea</strong> ！<br>
 ✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
 <!-- more -->
 <p><a href="https://github.com/getgridea/gridea">Github</a><br>
 <a href="http://hvenotes.fehey.com/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
+<a href="http://fehey.com/">示例网站</a><br>
+这里将分享我的日常，每个模块点击</p>
 <h2 id="特性">特性👇</h2>
 <p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
 <p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
