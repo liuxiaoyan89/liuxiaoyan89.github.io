@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuxiaoyan89.github.io</id>
     <title>Xiaoyan Liu</title>
-    <updated>2021-03-01T16:01:19.229Z</updated>
+    <updated>2021-03-01T16:16:14.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liuxiaoyan89.github.io"/>
     <link rel="self" href="https://liuxiaoyan89.github.io/atom.xml"/>
@@ -10,16 +10,6 @@
     <logo>https://liuxiaoyan89.github.io/images/avatar.png</logo>
     <icon>https://liuxiaoyan89.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Xiaoyan Liu</rights>
-    <entry>
-        <title type="html"><![CDATA[研究汇总]]></title>
-        <id>https://liuxiaoyan89.github.io/post/yan-jiu-hui-zong/</id>
-        <link href="https://liuxiaoyan89.github.io/post/yan-jiu-hui-zong/">
-        </link>
-        <updated>2021-03-01T15:57:13.000Z</updated>
-        <content type="html"><![CDATA[<p><strong>一作论文</strong></p>
-<p><strong>合作论文</strong></p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[关键词]]></title>
         <id>https://liuxiaoyan89.github.io/post/guan-jian-ci/</id>
@@ -38,7 +28,18 @@
         <link href="https://liuxiaoyan89.github.io/post/shi-jian-zhou/">
         </link>
         <updated>2021-03-01T15:34:46.000Z</updated>
-        <content type="html"><![CDATA[<p>的</p>
+        <content type="html"><![CDATA[<h1 id="2020年">2020年</h1>
+<p><strong>5月20日</strong><br>
+获得北京师范大学地理科学学部减灾与应急管理研究院第八届“A·DREAM杯”研究生学术能力竞赛 二等奖 [http://adrem.bnu.edu.cn/xwkx/222622.html]</p>
+<p><strong>10月19日</strong><br>
+作为特邀嘉宾，进行秋季学期校级方法课仿真的课程项目分享与交流讲座（invited guest lecture 45min）</p>
+<h1 id="2021年">2021年</h1>
+<p><strong>1月30日</strong><br>
+论文 A new approach to estimating flood-affected populations by combining mobility patterns with multi-source data: A case study of Wuhan, China 被 International Journal of Disaster Risk Reduction (ELSEVIER) (IJDRR) 接受，DOI: https://doi.org/10.1016/j.ijdrr.2021.102106</p>
+<p><strong>2月22日</strong><br>
+研究成果发表后第一时间得到了联合国防灾减灾署 UN Office for Disaster Risk Reduction (UNDRR) 知识平台 PreventionWeb 推广报道，并收录在 Social Impacts &amp; Social Resilience、Flood、China 三个模块中。(PERMALINK)[https://www.preventionweb.net/go/76173]</p>
+<p><strong>2月-4月</strong><br>
+承担北京师范大学2020-2021春季学期研究生课程灾害保险的助教</p>
 ]]></content>
     </entry>
     <entry>
