@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuxiaoyan89.github.io</id>
     <title>Xiaoyan Liu</title>
-    <updated>2021-03-04T13:23:37.559Z</updated>
+    <updated>2021-03-04T13:30:28.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liuxiaoyan89.github.io"/>
     <link rel="self" href="https://liuxiaoyan89.github.io/atom.xml"/>
@@ -16,17 +16,11 @@
         <link href="https://liuxiaoyan89.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏 这里是 刘晓燕 (Xiaoyan Liu) 的个人主页<br>
-🌱 我具有地学背景，目前从事自然灾害研究<br>
-✍️ 我将在这里记录我的科研进展和研究心得<br>
-🌎 当然还会分享生活中的好玩事和有趣想法<br>
-💬 如果你对我的研究感兴趣，欢迎联系合作！</p>
+        <summary type="html"><![CDATA[<p>👏 这里是刘晓燕 (Xiaoyan Liu)的个人主页 🌱 我具有地学背景，目前从事自然灾害研究<br>
+✍️ 我将在这里记录我的科研进展和研究心得 🌎 当然还会分享生活中的好玩事和有趣想法</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>👏 这里是 刘晓燕 (Xiaoyan Liu) 的个人主页<br>
-🌱 我具有地学背景，目前从事自然灾害研究<br>
-✍️ 我将在这里记录我的科研进展和研究心得<br>
-🌎 当然还会分享生活中的好玩事和有趣想法<br>
-💬 如果你对我的研究感兴趣，欢迎联系合作！</p>
+        <content type="html"><![CDATA[<p>👏 这里是刘晓燕 (Xiaoyan Liu)的个人主页 🌱 我具有地学背景，目前从事自然灾害研究<br>
+✍️ 我将在这里记录我的科研进展和研究心得 🌎 当然还会分享生活中的好玩事和有趣想法</p>
 <!-- more -->
 ]]></content>
     </entry>
