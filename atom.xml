@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuxiaoyan89.github.io</id>
     <title>Xiaoyan Liu</title>
-    <updated>2024-02-04T10:06:38.575Z</updated>
+    <updated>2024-03-29T14:22:26.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liuxiaoyan89.github.io"/>
     <link rel="self" href="https://liuxiaoyan89.github.io/atom.xml"/>
@@ -11,17 +11,26 @@
     <icon>https://liuxiaoyan89.github.io/favicon.ico</icon>
     <rights>All rights reserved 2024, Xiaoyan Liu</rights>
     <entry>
+        <title type="html"><![CDATA[业余爱好]]></title>
+        <id>https://liuxiaoyan89.github.io/post/ye-yu-ai-hao/</id>
+        <link href="https://liuxiaoyan89.github.io/post/ye-yu-ai-hao/">
+        </link>
+        <updated>2024-03-13T05:14:08.000Z</updated>
+        <content type="html"><![CDATA[<p>最喜欢的电影：《中央车站》<br>
+最喜欢的图书：《约翰·克利斯朵夫》<br>
+最喜欢的歌手：孙燕姿、周杰伦<br>
+最喜欢的作家：岛田庄司</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[公众服务：XYPOP高时空精度人口数据]]></title>
         <id>https://liuxiaoyan89.github.io/post/gong-zhong-fu-wu-ren-kou-zai-qing-kuai-su-ping-gu/</id>
         <link href="https://liuxiaoyan89.github.io/post/gong-zhong-fu-wu-ren-kou-zai-qing-kuai-su-ping-gu/">
         </link>
         <updated>2021-07-13T02:30:47.000Z</updated>
-        <summary type="html"><![CDATA[<p>2020年小时级中国1km人口网格获取方式：</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>2020年小时级中国1km人口网格获取方式：</p>
-<!-- more -->
+        <content type="html"><![CDATA[<p>2020年小时级中国1km人口网格联系方式：liuxiaoyan89@mail.bnu.edu.cn</p>
+<p>获取地址：在线展示网站（建设中）<!-- more --></p>
 <p>人口灾情快速评估项目</p>
-<p>在线展示网站（建设中）</p>
 ]]></content>
     </entry>
     <entry>
